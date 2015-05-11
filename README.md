@@ -1,5 +1,9 @@
 一个使用NODE写的婚礼请柬，指定用户生成链接，使用文件记录用户反馈，无需数据库支持。
 
+#截图
+![screenshot1](https://github.com/kession/wedding_invitation/blob/master/screenshot/screenshot1.png)
+
+![screenshot1](https://github.com/kession/wedding_invitation/blob/master/screenshot/screenshot2.png)
 
 #启动
 
